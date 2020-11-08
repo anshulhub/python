@@ -9,3 +9,12 @@ A basic repository to help fellow contributors and community with various progra
 - FTP cleanup
 - MaxSubArr sum
 - Rand_pass
+
+## List of projhects covered-
+- Calculator
+- Covid Tracker
+- Percentage Finder
+- Snake Ladder
+- Number Guessing Game
+- Sudoko
+- WebScraper
