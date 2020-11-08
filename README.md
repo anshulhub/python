@@ -10,7 +10,7 @@ A basic repository to help fellow contributors and community with various progra
 - MaxSubArr sum
 - Rand_pass
 
-## List of projhects covered-
+## List of projects covered-
 - Calculator
 - Covid Tracker
 - Percentage Finder
@@ -18,3 +18,5 @@ A basic repository to help fellow contributors and community with various progra
 - Number Guessing Game
 - Sudoko
 - WebScraper
+
+### More contribution to be updated soon---
